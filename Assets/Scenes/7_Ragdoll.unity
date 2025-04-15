@@ -2017,11 +2017,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -2243198064417611706, guid: c09f2a8159181db489ca341c206da6ea, type: 3}
       propertyPath: nameH
-      value: H2
+      value: Horizontal
       objectReference: {fileID: 0}
     - target: {fileID: -2243198064417611706, guid: c09f2a8159181db489ca341c206da6ea, type: 3}
       propertyPath: nameV
-      value: V2
+      value: Vertical
       objectReference: {fileID: 0}
     - target: {fileID: -2243198064417611706, guid: c09f2a8159181db489ca341c206da6ea, type: 3}
       propertyPath: speed
